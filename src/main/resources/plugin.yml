@@ -1,0 +1,8 @@
+name: MMOCORETOP
+version: '${project.version}'
+main: viezl.mmocoretop.MMOCORETOP
+api-version: '1.19'
+commands:
+  topplayers:
+    description: Hiển thị danh sách top 10 người chơi có cấp độ cao nhất.
+    usage: /topplayers
