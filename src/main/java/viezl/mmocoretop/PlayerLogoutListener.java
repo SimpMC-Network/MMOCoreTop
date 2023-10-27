@@ -22,4 +22,3 @@ public class PlayerLogoutListener implements Listener {
         playerData.put(playerName,currentLevel);
     }
 }
-
